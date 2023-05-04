@@ -1,2 +1,2 @@
-# Unique
-This website is for unique ,smart types of clothes
+# js-cart-setup
+ADD ITEMS TO CART JAVASCRIPT PROJECT
